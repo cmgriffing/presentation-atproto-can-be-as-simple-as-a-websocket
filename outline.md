@@ -1,0 +1,25 @@
+- Intro
+    - about me
+    - Social media
+        - QRCode for cmgriffing.com
+    - Developer Advocate for gitkraken
+- What is ATProtocol/ATProto?
+    - BlueSky
+    - Other platforms
+      - Graze.social
+      - Skylight.social
+    - Decentralized
+    - Open Source
+- Firehose
+    - Example WebSocket code
+    - Running the example websocket code
+- Jetstream
+    - Example WebSocket code
+    - Running the example websocket code
+- Jetstream Turbo
+    - Example WebSocket code
+    - Running the example websocket code
+- What can you do with it?
+  - Messijo
+  - Lobste.rs publishing
+- Outro

@@ -1,0 +1,17 @@
+{
+  "name": "presentation-atproto-can-be-as-simple-as-a-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "slidev": "slidev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "@slidev/cli": "^52.1.0"
+  }
+}
