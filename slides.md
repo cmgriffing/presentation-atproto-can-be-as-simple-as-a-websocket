@@ -4,14 +4,14 @@ title: ATProtocol Can Be As Simple As A WebSocket
 subtitle: Building with the AT Protocol
 class: text-white
 layout: cover
-background: ./images/sky.png
+background: /sky.png
 ---
 
 <h1 class="foo text-shadow-xl">ATProto Can Be As Simple As A WebSocket</h1>
 
 ---
 layout: image-right
-image: ./images/self-portrait.jpg
+image: /self-portrait.jpg
 ---
 
 # About Me
@@ -26,8 +26,7 @@ image: ./images/self-portrait.jpg
 
 ---
 layout: image-left
-image: ./images/atproto-logo.png
-
+image: /atproto-logo.png
 ---
 
 # What is the AT Protocol (ATProto)?
@@ -139,7 +138,7 @@ websocket.onmessage = function (event) {
 
 ---
 layout: image-right
-image: ./images/sdks.png
+image: /sdks.png
 ---
 
 # SDKs
